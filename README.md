@@ -35,6 +35,9 @@ A bank landing page provides an interactive experience for its users, allowing t
 2. Open the project in a code editor.
 3. Display the website.
 
+Note:
+- you can directly see the page on [here](https://bank-landing-page-html-css.vercel.app/)
+
 ## License
 
 The bank-landing-page-html-css is licensed under the [MIT License](LICENSE).
